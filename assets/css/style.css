@@ -1,0 +1,15 @@
+*{
+    font-family: Lucida Handwriting;
+}
+.D{
+   color: pink; 
+}
+.K{
+    color: green;
+}
+.cord{
+    border-radius: 2rem;
+}
+.bold{
+    font-weight: 400;
+}
